@@ -1,0 +1,12 @@
+{
+	"vsicons.associations.files": [{ "icon": "nunjucks", "extensions": ["njk", "html"], "format": "svg" }],
+	"editor.foldingStrategy": "indentation",
+	"emmet.includeLanguages": {
+		"md": "html",
+		"njk": "html"
+	},
+	"emmet.syntaxProfiles": {
+		"md": "html",
+		"njk": "html"
+	}
+}
